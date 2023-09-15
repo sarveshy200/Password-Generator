@@ -2,7 +2,7 @@
 
 This is a simple web application for generating random passwords with customizable options such as password length and character types. The application is built using HTML, CSS, and JavaScript. It allows users to generate secure passwords based on their preferences and copy them to the clipboard.
 
-#Screen Shot
+# Screen Shot
 ![screencapture-127-0-0-1-5500-2023-09-16-01_57_41](https://github.com/sarveshy200/Password-Generator/assets/105293807/101911b8-afa1-4498-9a15-18f3cf44aeca)
 
 ## Table of Contents
